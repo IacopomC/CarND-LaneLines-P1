@@ -9,6 +9,12 @@ Dependencies
 ---
 To execute the pipeline, the following dependencies are necessary:
 
+```python
+matplotlib
+numpy
+openCV
+```
+
 Installation
 ---
 Clone the Github Repository and run each cell contained in the Jupiter Notebook `P1.ipynb`
