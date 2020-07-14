@@ -13,6 +13,10 @@ To execute the pipeline, the following dependencies are necessary:
 matplotlib
 numpy
 openCV
+math
+os
+moviepy.editor
+IPython.display
 ```
 
 Installation
