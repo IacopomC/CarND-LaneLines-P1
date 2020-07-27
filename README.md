@@ -25,4 +25,6 @@ Clone the Github Repository and run each cell contained in the Jupiter Notebook 
 
 ```python
 git clone https://github.com/IacopomC/CarND-LaneLines-P1.git
+cd CarND-LaneLines-P1
+jupyter notebook P1.ipynb
 ```
